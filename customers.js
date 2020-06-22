@@ -4,14 +4,14 @@ const customers = [
   {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'curtis',
-      'last': 'ryan'
+      'title': 'Mr.',
+      'first': 'Curtis',
+      'last': 'Ryan'
     },
     'location': {
       'street': '8073 rolling green rd',
-      'city': 'south valley',
-      'state': 'missouri',
+      'city': 'South Valley',
+      'state': 'Missouri',
       'postcode': 99356
     },
     'email': 'curtis.ryan@example.com',
@@ -40,14 +40,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'martin',
-      'last': 'terry'
+      'title': 'Mr.',
+      'first': 'Martin',
+      'last': 'Terry'
     },
     'location': {
       'street': '5377 hogan st',
-      'city': 'waterbury',
-      'state': 'vermont',
+      'city': 'Waterbury',
+      'state': 'Vermont',
       'postcode': 65616
     },
     'email': 'martin.terry@example.com',
@@ -76,14 +76,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'miss',
-      'first': 'christine',
-      'last': 'cooper'
+      'title': 'Miss',
+      'first': 'Christine',
+      'last': 'Cooper'
     },
     'location': {
       'street': '7725 fincher rd',
-      'city': 'utica',
-      'state': 'west virginia',
+      'city': 'Utica',
+      'state': 'West virginia',
       'postcode': 34757
     },
     'email': 'christine.cooper@example.com',
@@ -112,14 +112,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'norman',
-      'last': 'henderson'
+      'title': 'Mr.',
+      'first': 'Norman',
+      'last': 'Henderson'
     },
     'location': {
       'street': '6481 mockingbird hill',
-      'city': 'santa clarita',
-      'state': 'washington',
+      'city': 'Santa Clarita',
+      'state': 'Washington',
       'postcode': 81948
     },
     'email': 'norman.henderson@example.com',
@@ -148,14 +148,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'jose',
-      'last': 'rhodes'
+      'title': 'Mr.',
+      'first': 'Jose',
+      'last': 'Rhodes'
     },
     'location': {
       'street': '3347 hickory creek dr',
-      'city': 'helena',
-      'state': 'arkansas',
+      'city': 'Helena',
+      'state': 'Arkansas',
       'postcode': 81276
     },
     'email': 'jose.rhodes@example.com',
@@ -184,14 +184,14 @@ const customers = [
   }, {
     'gender': 'female',
     'name': {
-      'title': 'dr',
-      'first': 'pauline',
-      'last': 'hughes'
+      'title': 'Dr.',
+      'first': 'Pauline',
+      'last': 'Hughes'
     },
     'location': {
       'street': '3747 elgin st',
-      'city': 'roseville',
-      'state': 'indiana',
+      'city': 'Roseville',
+      'state': 'Indiana',
       'postcode': 93281
     },
     'email': 'pauline.hughes@example.com',
@@ -220,14 +220,14 @@ const customers = [
   }, {
     'gender': 'male',
     'name': {
-      'title': 'mr',
-      'first': 'darren',
-      'last': 'hunter'
+      'title': 'Mr.',
+      'first': 'Darren',
+      'last': 'Hunter'
     },
     'location': {
       'street': '4226 thornridge cir',
-      'city': 'richmond',
-      'state': 'maryland',
+      'city': 'Richmond',
+      'state': 'Maryland',
       'postcode': 19582
     },
     'email': 'darren.hunter@example.com',
